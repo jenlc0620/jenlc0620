@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Jennifer Rodriguez 
-       I just graduated and I am looking for projects to build up my experience in different languages to enhance my skills.  
-       I am always looking for new things to learn and experiment with.  I have experience with javascript, jquery, css3, html5, debugging, and linux and I would really 
-       like to improve on my app building skills. 
+- 👋 Hello,
+       I just very recently graduated and I am looking for any full time opportunities or projects to build up my experience in different languages to enhance my skills.  I have experience in web design and object oriented programming and I am a very quick learner.  Currently working on building a portfolio.  
 
 
 <!---
